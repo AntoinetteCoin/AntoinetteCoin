@@ -9,9 +9,13 @@ Copyright (c) 2014-2018 Antoinettecoin Developers
 What is Antoinettecoin?
 ----------------
 
-Antoinettecoin is a version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 30 second block target
- - 3,000,000 million total coins
- - 2 coins per block
+AntoinetteCoin (AOI) is a decenteralized cryptocurrency. You can send AntoinetteCoin from peer to peer without the need of a bank, or third party. AntoinetteCoin has a low supply of 3,000,000 coins. You can stake AntoinetteCoin on our site, and earn 1-3% new coins per day from our premined supply. For more information, please vist http://Antoinettecoin.io.
 
-For more information, please visit http://Antoinettecoin.io.
+Antoinettecoin Specifications
+----------------
+- Mining type: PoW (Proof of Work)
+- PoW Algorithm: Scrypt
+- PoW Block Reward: 2 Antoinette
+- Target block Time: 30 seconds per block
+- Mature coin time: 10 blocks
+- Max Supply: 2,000,000
